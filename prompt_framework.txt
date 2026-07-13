@@ -1,1 +1,34 @@
+PROMPT FRAMEWORK – SEO CONTENT GENERATOR
 
+Objective:
+Generate SEO-optimized blog content that is informative, engaging, and designed to improve search engine visibility.
+
+Business Information Required:
+- Business Name
+- Industry
+- Services
+- Target Audience
+- Location
+- Primary Keywords
+
+Content Requirements:
+- Generate an SEO-friendly title.
+- Create a structured blog outline using H1, H2, and H3 headings.
+- Write clear, informative, and human-readable content.
+- Include naturally placed keywords.
+- Suggest internal linking opportunities.
+- End with a business-focused conclusion and Call-To-Action.
+
+SEO Requirements:
+- Focus on search intent.
+- Use keyword-rich headings naturally.
+- Optimize for readability.
+- Avoid keyword stuffing.
+
+Expected Output:
+- SEO Blog Title
+- Blog Outline
+- Full Blog Content
+- Internal Linking Suggestions
+- Meta Description
+- Call-To-Action
